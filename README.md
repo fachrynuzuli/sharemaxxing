@@ -69,7 +69,7 @@ Every rewrite must hit at least 1 of these 3 triggers (ideally all 3):
 
 ### Voice DNA
 
-The skill enforces strict writing rules:
+Enforced strict writing rules based on [Ole Lehmann (@itsolelehmann)](https://x.com/itsolelehmann/status/2028497454635888982):
 - Contractions always, short paragraphs, physical verbs over abstract ones
 - No em dashes (ever), numbers as digits, bold used sparingly
 - A comprehensive banned phrase list covering dead AI language, dead transitions, engagement bait, AI cringe, generic insider claims
@@ -93,13 +93,19 @@ Condensed from the [humanizer](https://github.com/blader/humanizer) skill by Siq
 
 **Shareability tags:** Opinion Flex ✓ · Proxy Boldness ✓ · Wit Signal ✓
 
-## References
+## Credits and References
 
-- [humanizer](https://github.com/blader/humanizer) by Siqi Chen — Anti-AI writing patterns (based on [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing))
-- Shareability Engine — original work by Fachry Nuzuli Kamal
+This skill is a synthesis of three core frameworks:
+
+1. **Anti-AI Writing Patterns**: Condensed from the [humanizer](https://github.com/blader/humanizer) skill by Siqi Chen, which is based on [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
+2. **Shareability Engine**: Based on the "instantly shareable" framework by [@signulll](https://x.com/signulll/status/1902351203565998406).
+3. **Voice DNA**: Based on the "actual voice" writing rules and banned phrases by [Ole Lehmann (@itsolelehmann)](https://x.com/itsolelehmann/status/2028497454635888982).
+
+Synthesized and sharemaxxed with additional quirk by [Fachry Nuzuli Kamal](https://github.com/fachrynuzuli).
 
 ## Version History
 
+- **1.1.0** — Added proper attribution for @itsolelehmann and @signulll.
 - **1.0.0** — Initial release. Shareability Engine (3 triggers), Voice DNA, anti-AI patterns, rewrite patterns.
 
 ## License

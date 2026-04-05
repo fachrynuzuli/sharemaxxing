@@ -1,6 +1,6 @@
 ---
 name: sharemaxxing
-version: 1.0.0
+version: 1.1.0
 description: |
   Rewrite any social media post, thread, caption, or script draft into a
   format people can't help but share. Use when the user has a draft and wants
@@ -309,10 +309,3 @@ If the user asks for revisions, iterate. Prioritize their feedback over your ins
 - Cut the em dash
 - Removed "Furthermore" and the generic conclusion ("can transform yours too")
 - Led with the insight, ended with a turn instead of a summary
-
-
-## Reference
-
-This skill's anti-AI writing patterns are condensed from the [humanizer](https://github.com/blader/humanizer) skill by Siqi Chen, which is based on [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
-
-The Shareability Engine is original work by Fachry Nuzuli Kamal.
