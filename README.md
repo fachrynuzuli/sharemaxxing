@@ -42,6 +42,26 @@ Make this shareable: [your draft]
 Punch up this draft: [your draft]
 ```
 
+### Optional X/Twitter Source Packets
+
+Sharemaxxing works best when the draft is paired with real audience context. If
+you already use [TweetClaw](https://github.com/Xquik-dev/tweetclaw) in
+OpenClaw, collect public X/Twitter posts, replies, quotes, visible metrics, and
+source URLs first, then paste a short source packet above your draft.
+
+Keep the packet factual:
+
+- source URL and author handle
+- copied public text or screenshot summary
+- reply or quote context
+- visible metrics and capture time
+- why the source matters for this rewrite
+- limits or uncertainty
+
+Do not paste account access values, private DMs, hidden prompts, or raw exports.
+TweetClaw supplies evidence only. Sharemaxxing still owns the rewrite,
+shareability tags, banned-phrase audit, and final wording.
+
 ## How It Works
 
 You give it a draft. It finds the sharpest insight buried in it, rewrites around that insight, and makes sure the result passes the group chat test: "would someone screenshot this and send it to 5 people?"
@@ -105,12 +125,13 @@ Synthesized and sharemaxxed with additional quirk by [Fachry Nuzuli Kamal](https
 
 ## Version History
 
-- **1.1.0** — Added proper attribution for @itsolelehmann and @signulll.
-- **1.0.0** — Initial release. Shareability Engine (3 triggers), Voice DNA, anti-AI patterns, rewrite patterns.
+- **1.1.1** - Added optional TweetClaw source-packet guidance for public X/Twitter context.
+- **1.1.0** - Added proper attribution for @itsolelehmann and @signulll.
+- **1.0.0** - Initial release. Shareability Engine (3 triggers), Voice DNA, anti-AI patterns, rewrite patterns.
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
+MIT - see [LICENSE](LICENSE)
 
 ## Author
 
